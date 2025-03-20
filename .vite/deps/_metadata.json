@@ -1,0 +1,73 @@
+{
+  "hash": "a633dace",
+  "configHash": "90e2b5ee",
+  "lockfileHash": "c3493d8a",
+  "browserHash": "fe0e69ef",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "75a0a05b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "6338114c",
+      "needsInterop": true
+    },
+    "@progress/kendo-react-charts": {
+      "src": "../../node_modules/@progress/kendo-react-charts/index.mjs",
+      "file": "@progress_kendo-react-charts.js",
+      "fileHash": "5def22be",
+      "needsInterop": false
+    },
+    "@progress/kendo-react-grid": {
+      "src": "../../node_modules/@progress/kendo-react-grid/index.mjs",
+      "file": "@progress_kendo-react-grid.js",
+      "fileHash": "3f8a2c8a",
+      "needsInterop": false
+    },
+    "@progress/kendo-react-dropdowns": {
+      "src": "../../node_modules/@progress/kendo-react-dropdowns/index.mjs",
+      "file": "@progress_kendo-react-dropdowns.js",
+      "fileHash": "af843921",
+      "needsInterop": false
+    },
+    "@progress/kendo-react-dateinputs": {
+      "src": "../../node_modules/@progress/kendo-react-dateinputs/index.mjs",
+      "file": "@progress_kendo-react-dateinputs.js",
+      "fileHash": "9899b4c9",
+      "needsInterop": false
+    },
+    "@progress/kendo-react-layout": {
+      "src": "../../node_modules/@progress/kendo-react-layout/index.mjs",
+      "file": "@progress_kendo-react-layout.js",
+      "fileHash": "ff89b2d3",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-L5MG5CYK": {
+      "file": "chunk-L5MG5CYK.js"
+    },
+    "chunk-FMZKDQ4H": {
+      "file": "chunk-FMZKDQ4H.js"
+    },
+    "chunk-L6Q2DE2H": {
+      "file": "chunk-L6Q2DE2H.js"
+    },
+    "chunk-M2R6BCBQ": {
+      "file": "chunk-M2R6BCBQ.js"
+    },
+    "chunk-ZRWBHFCZ": {
+      "file": "chunk-ZRWBHFCZ.js"
+    },
+    "chunk-6IW3YP4A": {
+      "file": "chunk-6IW3YP4A.js"
+    },
+    "chunk-N3BBKUNS": {
+      "file": "chunk-N3BBKUNS.js"
+    }
+  }
+}
